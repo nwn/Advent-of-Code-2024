@@ -3,3 +3,11 @@ name = "aoc_2024"
 version = "0.1.0"
 authors = ["Nathan Wiebe Neufeldt <wn.nathan@gmail.com>"]
 edition = "2021"
+
+[[bin]]
+name = "02a"
+path = "src/02a.rs"
+
+[[bin]]
+name = "02b"
+path = "src/02b.rs"
